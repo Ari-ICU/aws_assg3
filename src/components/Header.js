@@ -8,13 +8,6 @@ const Header = () => {
 
     return (
         <>
-            {/* PreLoader */}
-            <div className="loader">
-                <div className="loader-inner">
-                    <div className="circle"></div>
-                </div>
-            </div>
-            {/* PreLoader Ends */}
 
             {/* Header */}
             <div className="top-header-area" id="sticker">
